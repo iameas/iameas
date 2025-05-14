@@ -1,9 +1,1 @@
-Hi, I’m ThankGod Emmanuel, the Founder and CEO of Drauig, a software company based in Nigeria.
-
-I’m interested in software development, artificial intelligence, and building innovative tech solutions that can make a difference.
-
-I’m currently working on a programming language called Sora and exploring new technologies in web and software development.
-
-I’m looking to collaborate on open-source projects, especially those related to programming languages, AI, and data analytics.
-
-You can connect with me on LinkedIn or through my email at thankgodofem219@gmail.com.
+안녕하세요, 저는 ThankGod Emmanuel Ofem(/ofɛm/ 2003년 9월 20일 출생)입니다. 나이지리아의 재벌이자 컴퓨터 프로그래머, 인터넷 기업가, 그리고 자선가입니다. 저는 소프트웨어 회사 Drauig Nigeria Limited를 설립했으며, 이 회사의 회장, 최고경영자(CEO) 및 지배주주로 활동하고 있습니다.
