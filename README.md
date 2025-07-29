@@ -1,1 +1,1 @@
-Hello, my name is ThankGod Emmanuel Ofem (/ofɛm/ born September 20, 2003). I am a computer programmer, internet entrepreneur, and philanthropist. I founded a deep-tech company, Drauig Nigeria Limited, and I am the Chairman, Chief Executive Officer (CEO), and majority shareholder of the company.
+Programmer 📌
