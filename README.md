@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm ThankGod Emmanuel 👋
 
-<!--
-**iameas/iameas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Data Analyst / Machine Learning Engineer
+- Passionate about AI, automation, and backend systems
+- I build real-world ML projects and deploy them using Streamlit & APIs
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
+- Languages: Python, PHP, JavaScript, SQL
+- ML Tools: Pandas, Scikit-learn, TensorFlow
+- Data Tools: Jupyter Notebook, Power BI, Excel
+- Web: Streamlit, Flask, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I’ve Worked On
+- Student Performance Prediction System (ML + Streamlit)
+- AI-powered Dashboard with Explainable AI
+- API-based Prediction System with Flask
+
+## 📌 Current Focus
+- Machine Learning Deployment
+- AI explainability
+- Building production-ready ML apps
+
+## 📫 Contact
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourprofile
