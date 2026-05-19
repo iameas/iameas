@@ -12,7 +12,7 @@ I build end-to-end machine learning systems — from data preprocessing and mode
 - Languages: Python, PHP, JavaScript, SQL
 - ML Tools: Pandas, Scikit-learn, TensorFlow, XGBoost, Scikit-learn, Numpy, 
 - Data Tools: Jupyter Notebook, Power BI, Excel, Git & GitHub
-- Web: Streamlit, Flask, HTML/CSS
+- Web: Streamlit, Flask, HTML/CSS, Docker
 - Visualization: Matplotlib, Seaborn, Plotly
 
 ## What I’ve Worked On
