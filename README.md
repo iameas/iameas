@@ -1,5 +1,7 @@
 # Hi, I'm ThankGod Emmanuel 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iameas&show_icons=true&theme=radical) 
+
 ## About Me
 - Data Analyst / Machine Learning Engineer
 - Passionate about AI, automation, and backend systems
@@ -23,4 +25,4 @@
 
 ## Contact
 - Email: teo@drauig.xyz
-- LinkedIn: https://linkedin.com/in/iamjusttep
+- LinkedIn: https://shorturl.at/O972I
