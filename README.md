@@ -1,8 +1,7 @@
 # Hi, I'm ThankGod Emmanuel 👋
 
 ## Machine Learning Engineer & Data Analyst 
-I build end-to-end machine learning systems — from data preprocessing and model training to deployment using Streamlit and APIs.  
-My focus is turning raw data into intelligent, explainable, and production-ready applications.
+I build end-to-end machine learning systems — from data preprocessing and model training to deployment using Streamlit and APIs. My focus is turning raw data into intelligent, explainable, and production-ready applications.
 
 ## About Me
 - Data Analyst / Machine Learning Engineer
