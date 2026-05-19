@@ -1,7 +1,5 @@
 # Hi, I'm ThankGod Emmanuel 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iameas&layout=compact&theme=radical)
-
 ## About Me
 - Data Analyst / Machine Learning Engineer
 - Passionate about AI, automation, and backend systems
